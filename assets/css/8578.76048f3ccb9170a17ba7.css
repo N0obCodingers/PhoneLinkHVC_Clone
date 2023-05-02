@@ -1,0 +1,136 @@
+.LACU2ejUKiJW4Zu9o3SBIQ\=\= {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0
+}
+
+._3UDmytZJVz-MPPDoaNplZg\=\= {
+    width: 100%;
+    height: 100%;
+    overflow: scroll
+}
+
+@media(orientation: landscape) {
+    .kCDLu\+JAS6LsPxSULVudKA\=\= {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        min-height: 21rem;
+        min-width: 47rem
+    }
+
+    .-tWU8TJp\+ww-aB\+WJZ6n8w\=\= {
+        width: 20.5rem;
+        height: 16.25rem
+    }
+
+    .aD6n8\+od1T8JcZZL4vXkfg\=\= {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 3rem;
+        min-width: 20.5rem
+    }
+
+    .Tm1L7AB0Jzm2jtFNnwrBdA\=\= {
+        width: 18.5rem;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+        text-align: center;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        color: var(--plhvc-body-text)
+    }
+
+    .K3xfGMZABI4tyhf7eyUI\+Q\=\= {
+        width: 18.5rem;
+        margin-top: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        color: var(--plhvc-body-text)
+    }
+
+    .xBTNS8o6uC2iG4MD2dqdFA\=\= {
+        width: 20.5rem;
+        height: 3rem;
+        margin-top: 2.875rem;
+        border-radius: .25rem
+    }
+}
+
+@media(orientation: portrait) {
+    .kCDLu\+JAS6LsPxSULVudKA\=\= {
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+
+    .-tWU8TJp\+ww-aB\+WJZ6n8w\=\= {
+        width: 20.5rem;
+        height: 16.25rem;
+        margin-top: 1rem
+    }
+
+    .aD6n8\+od1T8JcZZL4vXkfg\=\= {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center
+    }
+
+    .Tm1L7AB0Jzm2jtFNnwrBdA\=\= {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+        text-align: center;
+        color: var(--plhvc-body-text)
+    }
+
+    .K3xfGMZABI4tyhf7eyUI\+Q\=\= {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        margin-top: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+        color: var(--plhvc-body-text)
+    }
+
+    .xBTNS8o6uC2iG4MD2dqdFA\=\= {
+        height: 3rem;
+        width: 91%;
+        margin-top: 2.5rem;
+        margin-bottom: 9rem;
+        margin-left: 4.5%;
+        margin-right: 4.5%;
+        border-radius: .25rem;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        vertical-align: middle;
+        text-align: center
+    }
+}
